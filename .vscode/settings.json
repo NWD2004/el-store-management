@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "files.encoding": "utf8",
+    "terminal.integrated.env.windows": {
+        "JAVA_TOOL_OPTIONS": "-Dfile.encoding=UTF-8"
+    },
+    "terminal.integrated.env.osx": {
+        "JAVA_TOOL_OPTIONS": "-Dfile.encoding=UTF-8"
+    },
+    "terminal.integrated.env.linux": {
+        "JAVA_TOOL_OPTIONS": "-Dfile.encoding=UTF-8"
+    }
+}

@@ -1,0 +1,4 @@
+orderId,customerName,orderDate,status,items
+ORD01,Nguyen Van A,2026-06-01,COMPLETED,P01:1;P03:2
+ORD02,Tran Thi B,2026-06-02,COMPLETED,P02:1;P04:1
+ORD03,Nguyen Van A,2026-06-05,PENDING,P05:1

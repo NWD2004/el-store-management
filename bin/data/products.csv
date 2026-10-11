@@ -1,0 +1,6 @@
+productId,productName,category,price,stock
+P01,Laptop Dell,Electronics,1200.0,10
+P02,MacBook Air,Electronics,1500.0,5
+P03,Gaming Mouse,Accessories,45.5,50
+P04,Mechanical Keyboard,Accessories,85.0,30
+P05,iPhone 15,Electronics,999.0,15
